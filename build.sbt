@@ -15,4 +15,5 @@ libraryDependencies += "commons-io" % "commons-io" % "2.4"
 libraryDependencies += "joda-time" % "joda-time" % "2.8.1"
 libraryDependencies += "org.scalatest" % "scalatest_2.11" % "2.2.4" % "test"
 libraryDependencies += "org.scala-lang" % "scala-xml" % "2.11.0-M4"
+libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.3.11"
 fork := false
